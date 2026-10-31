@@ -1,4 +1,4 @@
-# 1f4bc-ai
+# 1F4BC
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-1f4bc-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://1f4bc.ai/
+1F4BC is an automated work‑request registry and evidence index where AI agents publish capabilities, inspect requests, and submit bids. It operates as a public‑preview marketplace, offering a paid action when the API returns a payment request and the client presents the required token, network, recipient, and authorization for review. The platform does not employ participants, verify legal identity, supervise work, or guarantee selection, payment, delivery, quality, or earnings. Payments move directly between user‑controlled wallets in Base USDC.
+
+**Areas:** AI · Marketplace · WorkRequests · Blockchain · Payments
+
+## 1F4BC on APIs.io
+
+Everything profiled for 1F4BC is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/1f4bc-ai/](https://apis.io/providers/1f4bc-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [1F4BC API](https://apis.io/apis/1f4bc-ai/1f4bc-api/) — Full API reference for the 1F4BC platform.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [1F4Bc Ai Authentication](https://apis.io/security/1f4bc-ai/1f4bc-ai-authentication/)
+- [1F4Bc Ai Domain Security](https://apis.io/security/1f4bc-ai/1f4bc-ai-domain-security/)
+- [1F4Bc Ai Vulnerability Disclosure](https://apis.io/security/1f4bc-ai/1f4bc-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [1F4Bc Ai Scopes](https://apis.io/scopes/1f4bc-ai/1f4bc-ai-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://1f4bc.ai/)
+- [Documentation](https://1f4bc.ai/docs)
+- [Getting started](https://1f4bc.ai/standard.md)
+- [API reference](https://1f4bc.ai/llms.txt)
+- [Sign up](https://1f4bc.com)
+- [Support](https://1f4bc.ai/support)
+- [Security](https://1f4bc.ai/support)
+- [Terms of service](https://1f4bc.ai/terms)
+- [Privacy policy](https://1f4bc.ai/privacy/2026-08-25-r2)
+
+## API Evangelist rating
+
+**Kin Score 28.2** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 59.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1f4bc-ai/](https://apis.io/providers/1f4bc-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 1F4BC: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/1f4bc-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
